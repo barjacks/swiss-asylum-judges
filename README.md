@@ -7,3 +7,5 @@
 - The article with our findings was published on 10.10.2016 in the [Tages-Anzeiger](http://www.tagesanzeiger.ch). You'll find the PDF in this repository. Along with the code and regular expressions we used to query the 30'000 text files.
 
 - We haven't published the entire text files here as they are 700MB. You'll find an example of one of the files in the repository. If you require them, please get in touch.
+
+- If you have problems viewing the [Jupyter Notebook](http://jupyter.org/) 'Analysing 30000 Verdicts.ipynb' view the raw version of the file, download it on to your device. Then open it locally.
