@@ -2,7 +2,7 @@
 
 ## Analyzing 30'000 verdicts of the Swiss Federal Administrative Court on deportation appeals
 
-- For years, lawyers and attorneys working in Switzerland have sensed that cases of migrants appealing deportation weren't treated equally by the 24 judges of the [Swiss Federal Administrative Court](http://www.bvger.ch/index.html?lang=en). To explore this claim we scraped the 30'000 verdicts of the court since 2007 from the court's data base. Then used the Python libraries [pandas](http://pandas.pydata.org/), [glob](https://docs.python.org/2/library/glob.html) and Regular Expression to explore the data.
+- For years, lawyers and attorneys working in Switzerland have sensed that cases of migrants appealing deportation weren't treated equally by the 24 judges of the [Swiss Federal Administrative Court](http://www.bvger.ch/index.html?lang=en). To explore this claim we scraped the 30'000 verdicts of the court since 2007 from the court's data base. Then used the Python libraries [pandas](http://pandas.pydata.org/), [glob](https://docs.python.org/2/library/glob.html) and regular expressions to explore the data.
 
 - The article with our findings was published on 10.10.2016 in the [Tages-Anzeiger](http://www.tagesanzeiger.ch). You'll find the PDF in this repository. Along with the code and regular expressions we used to query the 30'000 text files.
 
